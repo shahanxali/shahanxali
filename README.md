@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahan ALi
+- 👋 Hi, I’m Shahan Ali
 - 👀 I’m interested in logic designing and web development
 - 🌱 I’m currently learning javascript, game development and design
 - 💞️ I’m looking to collaborate on python projects

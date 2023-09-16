@@ -1,3 +1,8 @@
+<div id="header">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 # Hi there! I'm Shahan Ali 👋
 
 🌟 *Passionate CS Engineering Student and Adventurer*

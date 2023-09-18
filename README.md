@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://www.icegif.com/wp-content/uploads/icegif-3550.gif" width="300", heigth="150"/>
 </div>
 
 
@@ -28,7 +28,12 @@ I'm all about making new friends, seeking new adventures, and having a blast alo
 
 P.S. Don't forget to check out my repositories for some cool projects. 😎
 
+I gotta sleep now. Bye
 
+
+<div>
+<img src="https://i.pinimg.com/originals/43/11/01/43110141a509266e1450b2bc4b7a27bc.gif" width="300", heigth="150"/>
+</div>
 
 
 

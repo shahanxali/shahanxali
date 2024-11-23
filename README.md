@@ -6,7 +6,7 @@
 <h1 align="center"><img src="img/wave.gif" width="48"> Hello World! I'm Shahan Ali </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&width=450&lines=Computer+Science+Enthusiast;Software+Development;Competitive+Programming;Astrophysics%2C+Cosmos" alt="Typing self />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&width=450&lines=Computer+Science+Enthusiast;Software+Development;Competitive+Programming;Astrophysics%2C+Cosmos" alt="Typing self" />
 </p>
 
 
@@ -284,13 +284,13 @@ Music, is the best way of communication. Having a good taste in music means havi
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/shahan-ali-92536322b/" target="_blank">
-        <img src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png" alt="Linkedin" style="margin: 10px;"width = "50" height = "50">
+      <a href="https://www.linkedin.com/in/shahan-ali-/" target="_blank">
+        <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" alt="Linkedin" style="margin: 10px;" width = "50" height = "50">
       </a>
     </td>
         <td align="center">
       <a href="https://github.com/shahanxali" target="_blank">
-        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG51.png&f=1&nofb=1&ipt=83c6805d0dba2bde375cd9a3971fe3df169c9ac8891c92ac9b85faae2dbb9ca9&ipo=images" alt="Github" style="margin: 10px;"width = "50" height = "50">
+        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG51.png&f=1&nofb=1&ipt=83c6805d0dba2bde375cd9a3971fe3df169c9ac8891c92ac9b85faae2dbb9ca9&ipo=images" alt="Github" style="margin: 10px;" width = "50" height = "50">
       </a>
     </td>
   </tr>
@@ -315,7 +315,6 @@ Music, is the best way of communication. Having a good taste in music means havi
 </div>
 </h3>
 
-<br>
 <br>
 
 <h2 align = "center">Gotta Sleep BYE</h2>

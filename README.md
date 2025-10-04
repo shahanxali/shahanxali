@@ -210,7 +210,7 @@ My passion for pushing the boundaries always helped me to be exceptional in what
       </td>
       <td align="center" style="border: none;">
       <a href="https://www.selenium.dev/" style="color: white;">
-        <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png"
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.SLtIdk-sJM0q_co8lgG7uQAAAA%3Fpid%3DApi&f=1&ipt=f06bc9a111336c11ec0beda27a521affe92b06bbdce12b3f97016215811a8d05"
         alt="Selenium" width="50" height="50"/>
         </a>
         <br>Selenium

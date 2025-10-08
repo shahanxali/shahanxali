@@ -6,7 +6,7 @@
 <h1 align="center"><img src="img/wave.gif" width="48"> Hello World! I'm Shahan Ali </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&width=450&lines=Computer+Science+Enthusiast;Software+Development;Competitive+Programming;Astrophysics%2C+Cosmos" alt="Typing self" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&center=true&vCenter=true&width=450&lines=Computer+Science+Enthusiast;Software+Development;Competitive+Programming;Astrophysics%2C+Cosmos" alt="Typing self" />
 </p>
 
 
@@ -153,8 +153,14 @@ My passion for pushing the boundaries always helped me to be exceptional in what
         <br>Python
       </td>
       <td align="center" style="border: none;">
-        <a href="https://git-scm.com/" style="color: white;">
-          <img src="https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png" alt="git" width="50" height="50"/>
+      <a href="https://github.com/" style="color: white;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+      </a>
+      <br>GitHub
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/" style="color: white;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
         </a>
         <br>Git
       </td>
